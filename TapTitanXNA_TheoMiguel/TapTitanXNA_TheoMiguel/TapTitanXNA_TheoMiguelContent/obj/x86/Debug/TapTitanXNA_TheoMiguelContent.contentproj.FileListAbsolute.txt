@@ -1,0 +1,1 @@
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguelContent\obj\x86\Debug\TapTitanXNA_TheoMiguelContent.contentprojResolveAssemblyReference.cache
