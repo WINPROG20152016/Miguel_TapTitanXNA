@@ -10,3 +10,7 @@ C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_TheoMiguel\T
 C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\bin\x86\Debug\Content\SpriteFont1.xnb
 C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\bin\x86\Debug\Content\Button.xnb
 C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\bin\x86\Debug\Content\Hulk.xnb
+C:\Users\istudent\Documents\Miguel_TapTitanXNA\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\obj\x86\Debug\TapTitanXNA_TheoMiguel.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Miguel_TapTitanXNA\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\Miguel_TapTitanXNA\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\obj\x86\Debug\TapTitanXNA_TheoMiguel.exe
+C:\Users\istudent\Documents\Miguel_TapTitanXNA\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\TapTitanXNA_TheoMiguel\obj\x86\Debug\TapTitanXNA_TheoMiguel.pdb
